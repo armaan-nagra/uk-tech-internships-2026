@@ -1,6 +1,6 @@
 # 🇬🇧 UK Software Engineering Internships 2026
 
-> A list of software engineering internships for 2025–2026 in the UK, designed to be updated as soon as job listings are posted. Community-maintained and open to student contributors. Let’s put an end to gatekeeping. 🚀
+> A list of software engineering internships for 2026 in the UK, designed to be updated as soon as job listings are posted. Community-maintained and open to student contributors. Let’s put an end to gatekeeping. 🚀
 
 🧑‍💻 Found an internship we’re missing? Add it to help others. No coding required! 💙 Follow the steps in [CONTRIBUTING.md](CONTRIBUTING.md).
 
