@@ -16,7 +16,7 @@
 | DV Trading                        | 2026 Summer Internship - Software Development | London | 02-08-2025    | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592920005) |
 | Jump Trading                     | Campus Software Engineer (Intern)         | London | 02-08-2025    | [Apply](https://www.jumptrading.com/careers/6946008/) |
 | Palantir                         | Software Engineer, Internship             | London | 01-08-2025    | [Apply](https://jobs.lever.co/palantir?commitment=Internship&location=London%2C%20United%20Kingdom) |
-| Castleton Commodities International | Software Engineer Internship (Summer 2026) | London | 21-07-2025    | [Apply](hhttps://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/jobs?q=%27internship+(summer+2026)%27&locations=f2015cfc02f00191c190c981a701650e) |
+| Castleton Commodities International | Software Engineer Internship (Summer 2026) | London | 21-07-2025    | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/jobs?q=%27internship+(summer+2026)%27&locations=f2015cfc02f00191c190c981a701650e) |
 | GSA Capital                       | Software Developer - Intern               | London | 15-07-2025    | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016008002) |
 | DRW                               | Software Developer Intern                 | London | 14-07-2025    | [Apply](https://job-boards.greenhouse.io/drweng/jobs/6987115) |
 | BlackRock                        | 2026 Summer Internship Programme          | London | 01-07-2025    | [Apply](https://careers.blackrock.com/job/london/2026-summer-internship-program-emea/45831/83233338800) |

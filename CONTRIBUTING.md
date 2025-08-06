@@ -2,7 +2,7 @@
 
 Thanks for helping make internship info more accessible to everyone!
 
-This project is open to all — **you don’t need to know how to code** to contribute. If you know of an internship that should be listed here, follow the guide below.
+This project is open to all, **you don’t need to know how to code** to contribute. If you know of an internship that should be listed here, follow the guide below.
 
 ---
 
